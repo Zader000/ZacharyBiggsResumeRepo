@@ -1,0 +1,92 @@
+0,1,Daybreak Parkway,RED
+1,2,South Jordan Parkway,RED
+2,3,5600 W. Old Bingham Hwy,RED
+3,4,4800 W. Old Bingham Hwy,RED
+4,5,Jordan Valley,RED
+5,6,Sugar Factory Road,RED
+6,7,West Jordan City Center,RED
+7,8,Historic Gardner,RED
+8,9,Bingham Junction,RED
+9,18,Fashion Place West,RED
+10,19,Murray Central,RED
+11,20,Murray North,RED
+12,21,Meadowbrook,RED
+13,22,Millcreek,RED
+14,23,Central Pointe,RED
+15,24,Ballpark,RED
+16,25,900 South,RED
+17,26,600 South,RED
+18,27,Courthouse,RED
+19,28,Library,RED
+20,29,Trolley,RED
+21,30,900 East,RED
+22,31,Stadium,RED
+23,32,University South Campus,RED
+24,33,Fort Douglas,RED
+25,34,University Medical Center,RED
+26,10,Draper Town Center,BLUE
+27,11,Kimballs Lane,BLUE
+28,12,Crescent View,BLUE
+29,13,Sandy Civic Center,BLUE
+30,14,Sandy Expo,BLUE
+31,15,Historic Sandy,BLUE
+32,16,Midvale Center,BLUE
+33,17,Midvale Fort Union,BLUE
+34,18,Fashion Place West,BLUE
+35,19,Murray Central,BLUE
+36,20,Murray North,BLUE
+37,21,Meadowbrook,BLUE
+38,22,Millcreek,BLUE
+39,23,Central Pointe,BLUE
+40,24,Ballpark,BLUE
+41,25,900 South,BLUE
+42,26,600 South,BLUE
+43,27,Courthouse,BLUE
+44,41,Gallivan Plaza,BLUE
+45,42,City Center,BLUE
+46,43,Temple Square,BLUE
+47,44,Arena,BLUE
+48,45,Planetarium,BLUE
+49,46,Old Greektown,BLUE
+50,47,Salt Lake Central,BLUE
+51,53,Airport,GREEN
+52,52,1940 W. North Temple,GREEN
+53,51,Power,GREEN
+54,50,Fairpark,GREEN
+55,49,Jackson/Euclid,GREEN
+56,48,North Temple Bridge,GREEN
+57,44,Arena,GREEN
+58,46,Temple Square,GREEN
+59,42,City Center,GREEN
+60,41,Gallivan Plaza,GREEN
+61,27,Courthouse,GREEN
+62,26,600 South,GREEN
+63,25,900 South,GREEN
+64,24,Ballpark,GREEN
+65,23,Central Pointe,GREEN
+66,66,River Trail,GREEN
+67,67,Redwood Junction,GREEN
+68,68,Decker Lake,GREEN
+69,69,West Valley Central,GREEN
+70,54,Provo Central,FRONTRUNNER
+71,55,Orem Central,FRONTRUNNER
+72,56,American Fork,FRONTRUNNER
+73,57,Lehi,FRONTRUNNER
+74,58,Draper,FRONTRUNNER
+75,59,South Jordan,FRONTRUNNER
+76,19,Murray Central,FRONTRUNNER
+77,47,Salt Lake Central,FRONTRUNNER
+78,48,North Temple Bridge,FRONTRUNNER
+79,60,Woods Cross,FRONTRUNNER
+80,61,Farmington,FRONTRUNNER
+81,62,Layton,FRONTRUNNER
+82,63,Clearfield,FRONTRUNNER
+83,64,Roy,FRONTRUNNER
+84,65,Ogden,FRONTRUNNER
+85,23,Central Pointe,S_LINE
+86,35,South Salt Lake City,S_LINE
+87,36,300 East,S_LINE
+88,37,500 East,S_LINE
+89,38,700 East,S_LINE
+90,39,Sugarmont,S_LINE
+91,40,Fairmont,S_LINE

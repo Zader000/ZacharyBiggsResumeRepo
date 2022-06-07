@@ -1,0 +1,5 @@
+# ninja log v5
+2	211	6723918900000000	CMakeFiles/DatabaseAssignment.dir/main.c.obj	5200f170202cdb90
+3834	9515	6723919000000000	SQLite/libSQLite.a	d3b26efd427892cb
+13	3832	6723918940000000	SQLite/CMakeFiles/SQLite.dir/sqlite3.c.obj	79ecfe23a87a47a8
+9516	9845	6723919000000000	DatabaseAssignment.exe	927118f530e59899

@@ -1,0 +1,6 @@
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/CMakeFiles/DatabaseAssignment.dir
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/SQLite/CMakeFiles/rebuild_cache.dir
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/SQLite/CMakeFiles/SQLite.dir
+E:/Coding Stuff/C&C++/DatabaseAssignment/cmake-build-debug/SQLite/CMakeFiles/edit_cache.dir
